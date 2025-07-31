@@ -26,8 +26,8 @@ NDA соблюдается, документы не содержат конфи�
 - 🗄 **База данных и SQL**  
  
   
-- 📊 **Схемы и диаграммы**  
- 
+- 📊 **Схемы и диаграммы**
+    - [Heimdall Architecture C4 Container](https://github.com/yusupovbulat/Heimdall/wiki/Heimdall-Architecture-C4-Container)
     
 - 🎨 **Прототипы UI**  
  
